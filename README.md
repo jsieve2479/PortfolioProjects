@@ -6,6 +6,6 @@ SQL Exploration: https://github.com/jsieve2479/PortfolioProjects/blob/main/Menta
 PowerBI Visualization: https://github.com/jsieve2479/PortfolioProjects/blob/main/MxMH_Report.pdf 
 
 ### People, Pollution, and Per Capita (GDP)
-Dataset Webscraping: https://github.com/jsieve2479/PortfolioProjects/blob/main/PPP_Greenhouse_Emissions_webscrape.ipynb
-SQL Data Cleaning: https://github.com/jsieve2479/PortfolioProjects/blob/main/PPP_SQL_Cleaning.sql
+Dataset Webscraping: https://github.com/jsieve2479/PortfolioProjects/blob/main/PPP_Greenhouse_Emissions_webscrape.ipynb \
+SQL Data Cleaning: https://github.com/jsieve2479/PortfolioProjects/blob/main/PPP_SQL_Cleaning.sql \
 PowerBI Visualization: https://github.com/jsieve2479/PortfolioProjects/blob/main/PPP_PowerBI_Report.pdf
